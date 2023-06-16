@@ -14,11 +14,9 @@
 
 ### STEP-4
   Open the file in a browser and verify the output.
-  
-## CODE
-
-
+ 
 ## OUTPUT
+![IMG-20230616-WA0027](https://github.com/selvasachein/EX10_Web-Design/assets/127816765/d0b60bdd-5717-4255-8634-02007541608f)
 
 
 ## RESULT
